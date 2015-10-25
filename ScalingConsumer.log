@@ -1,0 +1,15 @@
+
+Your code goes in this file!
+Alternatively, try one of the examples.
+Verifying properties
+Property batch.num.messages is overridden to 200
+Property client.id is overridden to a71fbfcd-c6f6-4178-845a-716a96b902e6
+Property compression.codec is overridden to 1
+Property message.send.max.retries is overridden to 3
+Property metadata.broker.list is overridden to localhost:9092
+Property producer.type is overridden to async
+Property request.required.acks is overridden to -1
+Fetching metadata from broker id:0,host:localhost,port:9092 with correlation id 0 for 1 topic(s) Set(testing.kafka)
+Connected to localhost:9092 for producing
+Disconnecting from localhost:9092
+Connected to ubuntu:9092 for producing
